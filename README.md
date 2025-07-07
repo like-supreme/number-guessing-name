@@ -24,17 +24,6 @@ Type 0 at any time to quit the game.
 
 """
 🧩 To-Do (for future updates)
- Add difficulty modes (Easy/Medium/Hard)
+ Add difficulty modes (Easy/Medium/Hard) + 
+ Limit total attempts (like a challenge mode) +
 
- Track number of attempts and show score
-
- Limit total attempts (like a challenge mode)
-
- GUI version using tkinter or pygame"""
-
- Guess a number (0 to quit): 30
-Your number 30 is smaller than computer number. Try with higher numbers.
-Guess a number (0 to quit): 45
-Your number 45 is bigger than computer number. Try with lower numbers.
-Guess a number (0 to quit): 38
-You guessed right!
